@@ -1,0 +1,47 @@
+# Compiled binaries
+*.out
+*.exe
+*.o
+*.a
+*.so
+
+# Debug files
+*.dSYM/
+*.stackdump
+core
+core.*
+
+# Build directories
+build/
+bin/
+obj/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# Project notes
+docs/notes/*
+
+# Local executables
+build/
+*.out
+*.exe
+*.bin
