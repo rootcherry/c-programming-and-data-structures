@@ -40,6 +40,9 @@ compile_commands.json
 # Project notes
 docs/notes/*
 
+# Local study notes
+notes/
+
 # Local executables
 build/
 *.out
