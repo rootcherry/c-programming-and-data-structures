@@ -38,7 +38,7 @@ cmake_install.cmake
 compile_commands.json
 
 # Project notes
-docs/notes/*
+.notes/*
 
 # Local study notes
 notes/
